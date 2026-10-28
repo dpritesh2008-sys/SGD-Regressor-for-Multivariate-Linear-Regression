@@ -122,6 +122,8 @@ print("SGDRegressor MSE:", mean_squared_error(y_test, sgd_pred))
 ```
 ## Output:
 <img width="500" height="86" alt="image" src="https://github.com/user-attachments/assets/348d7de0-93dc-4a98-8dd2-d18e29364a1d" />
+<img width="324" height="41" alt="image" src="https://github.com/user-attachments/assets/278e9e03-f7f0-47d2-a144-6d50d0c2de85" />
+<img width="632" height="42" alt="image" src="https://github.com/user-attachments/assets/639b3a47-545f-4fe6-b5d5-736b25f90ac4" />
 <img width="217" height="142" alt="image" src="https://github.com/user-attachments/assets/bbfd8d9f-e738-430e-91a3-cd2f5cebd8d9" />
 <img width="473" height="161" alt="image" src="https://github.com/user-attachments/assets/9a71d447-7ddc-4c04-a1d1-ac6408d83b99" />
 <img width="310" height="142" alt="image" src="https://github.com/user-attachments/assets/dd326550-2dac-4afb-bc23-f3c09f2e4acd" />
